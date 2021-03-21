@@ -1,6 +1,6 @@
 # Tópicos Especiais
 
-## Autora 
+## Autores
 
 Rodrigo Marcelino 
 
